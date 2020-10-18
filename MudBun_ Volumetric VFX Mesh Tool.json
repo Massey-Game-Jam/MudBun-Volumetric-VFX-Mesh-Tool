@@ -1,0 +1,35 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "MudBun: Volumetric VFX Mesh Tool",
+      "message": {
+        "embeds": [
+          {
+            "title": "MudBun: Volumetric VFX Mesh Tool",
+            "description": "MudBun is a real-time volumetric VFX mesh tool. It procedurally generates meshes from “brushes” that define shapes, distortion, and surface modification. MudBun can also be used for quick volumetric modeling and provides a convenient auto-rigging feature. Locked meshes, including auto-rigged ones, can be exported using Unity's official FBX exporter package.\n",
+            "color": 65307,
+            "fields": [
+              {
+                "name": "Check out the link below to find more information:",
+                "value": "https://assetstore.unity.com/packages/tools/particles-effects/mudbun-volumetric-vfx-mesh-tool-177891?aid=1100IcQsJ&utm_source=aff"
+              }
+            ],
+            "author": {
+              "name": "Massey Game Jam Assets",
+              "icon_url": "https://cdn.discordapp.com/attachments/742778030220640318/744606293482012712/ezgif-7-ce9239e319a0.gif"
+            },
+            "footer": {
+              "text": "MasseyGameJam.Com",
+              "icon_url": "https://cdn.discordapp.com/attachments/742778030220640318/744606293482012712/ezgif-7-ce9239e319a0.gif"
+            },
+            "timestamp": "2020-10-18T00:14:00.000Z",
+            "image": {
+              "url": "https://assetstorev1-prd-cdn.unity3d.com/key-image/b85aee05-7d77-4d08-99ee-aaf89340214d.png"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
